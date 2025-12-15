@@ -176,7 +176,7 @@ Le code privilégie la **lisibilité** et la **compréhension du cheminement**, 
 ---
 ## Aperçu
 
-![Présentation](Assets/zero-dizaine.png)
+![Présentation](Assets/IMG_2338.jpg)
 
 ---
 
