@@ -92,9 +92,13 @@ void setup() {
 
   matrix.begin();
 
-  // IMPORTANT:
-  // D’après la doc UNO Q, il y a des niveaux de gris (ex: 3 bits -> 0..7). :contentReference[oaicite:2]{index=2}
-  // Certains exemples utilisent 8 bits (0..255). Si 8 ne marche pas visuellement, repassez à 3.
+// IMPORTANT:
+// La bibliothèque Arduino_LED_Matrix supporte les niveaux de gris via setGrayscaleBits().
+// Certains exemples officiels utilisent 8 bits (valeurs 0..255).
+// Selon le pilote et le matériel, le nombre de niveaux réellement visibles peut être inférieur.
+// Si le rendu est saturé ou peu différencié, on peut réduire à setGrayscaleBits(3)
+// (valeurs 0..7), ce qui donne souvent un contraste plus lisible.
+
   matrix.setGrayscaleBits(8);
 
   matrix.clear();
