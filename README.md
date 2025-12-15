@@ -174,6 +174,11 @@ Ce programme montre :
 Le code privilégie la **lisibilité** et la **compréhension du cheminement**, du chiffre abstrait jusqu’à l’intensité affichée sur chaque LED.
 
 ---
+## Aperçu
+
+![Présentation](Assets/zero-dizaine.png)
+
+---
 
 ## Credits
 
