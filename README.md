@@ -172,3 +172,11 @@ Ce programme montre :
 - comment interfacer proprement le cœur Linux et le code Arduino.
 
 Le code privilégie la **lisibilité** et la **compréhension du cheminement**, du chiffre abstrait jusqu’à l’intensité affichée sur chaque LED.
+
+---
+
+## Credits
+
+- Projet, conception et implémentation : philippe86220
+- Accompagnement pédagogique, explications détaillées et aide à la compréhension du code : ChatGPT (OpenAI)
+
