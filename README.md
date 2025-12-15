@@ -178,7 +178,7 @@ Le code privilégie la **lisibilité** et la **compréhension du cheminement**, 
 
 ![Présentation](Assets/IMG_2338.jpg)
 
-LE RENDU N'EST PAS AUSSI BIEN AVEC LA PHOTO - EN REALLITE C'EST MIEUX
+LE RENDU N'EST PAS TRES BON AVEC LA PHOTO - EN REALLITE C'EST MIEUX
 ---
 
 ## Credits
